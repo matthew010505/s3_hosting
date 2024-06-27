@@ -6,3 +6,6 @@
 ![4](https://github.com/matthew010505/s3_hosting/assets/117917780/dae15970-2e42-488c-94ba-7550c931ea06)
 ![5](https://github.com/matthew010505/s3_hosting/assets/117917780/68c0f0a4-4c8e-4f7c-9820-1e44aad3fae3)
 ![6](https://github.com/matthew010505/s3_hosting/assets/117917780/e615b5d9-c40a-4e13-9343-f07d585506c5)
+
+
+This Whole Process Can Also be Done Using IAC Tools like Terraform
